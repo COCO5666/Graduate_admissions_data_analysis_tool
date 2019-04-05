@@ -1,0 +1,5 @@
+Database/
+.vs/
+__pycache__/
+.idea/
+*.code-workspace
