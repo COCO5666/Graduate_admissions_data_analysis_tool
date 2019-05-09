@@ -31,7 +31,7 @@
 * 暂时提供多进程加速（注意在使用多进程进行异步运行时不能运行采用单例模式设计的类的方法）
 
 ### **图解**
-![图片无法正常加载，请联系作者](https://ws1.sinaimg.cn/large/d1aeccfaly1g2utd3bwkaj20ga0i4t8u.jpg)
+![图片无法正常加载，请联系作者](https://s2.ax1x.com/2019/05/09/EchrTA.png)
 
 ## **代码开源及博客更新地址**
 ### **GitHub's address:**

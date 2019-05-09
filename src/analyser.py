@@ -14,7 +14,6 @@
 * 为数据分析提供支持
 '''
 
-
 from designPattern import addGetInstanceFunc
 from storer import storer
 from spider import spider
