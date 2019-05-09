@@ -1,5 +1,6 @@
-Database/
-.vs/
-__pycache__/
-.idea/
-*.code-workspace
+/*
+!.gitignore
+!ReadMe.md
+!VS2019_Proj.pyproj
+!VS2019_Proj.sln
+!/src/
