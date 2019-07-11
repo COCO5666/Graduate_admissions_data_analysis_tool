@@ -249,6 +249,3 @@ class getInfoByInstitution:
     #     (insName, department, subjectName, major, researchArea, examType, learngType, enrolledNumer) = data
     #     if(not enrolledNumer.find('一级学科：') = -1)
     #     exit(0)
-
-
-

@@ -10,7 +10,7 @@
 # @File : selector.py
 
 '''
-* 筛选器
+* 筛选器模块
 * 为对采集到的数据进行筛选/过滤提供支持
 '''
 
@@ -49,7 +49,7 @@ class selector:
         self.asynFlag = True
         self.poolNum = 16
     
-    #用于快死使用正则表达式提取所有数据
+    #用于快速使用正则表达式提取所有数据
     def _findAllWithRe(self, data, pattern):
         expression = re.compile(pattern, re.DOTALL)
         res = expression.findall(data, re.S)

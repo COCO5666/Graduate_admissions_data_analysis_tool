@@ -10,7 +10,7 @@
 # @File : main-01-getData.py
 
 '''
-* 程序入口模块
+* 程序入口模块一
 * 为打开/启动程序以及调用执行相关库函数提供支持
 * 具体的，启动后开始进行第一阶段的数据采集工作
 '''
@@ -73,5 +73,3 @@ if __name__ == '__main__':
     data = storerIns.getPickleFileDataFromOtherData(pklPath, selectorIns.getAllSCInfo, data)
     ###第05步：数据采集完毕
     print('数据采集完毕')
-
-
